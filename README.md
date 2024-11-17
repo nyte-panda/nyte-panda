@@ -8,7 +8,12 @@ I am a final-year Business Technology undergraduate student with a strong intere
 
 - **JavaScript** (React, Express.js, Node.js)
 - **Python**, **R**
-- **SQL**, **PostgreSQL**
+- **SQL** (PostgreSQL, SQLite)
 - **Apache Kafka**, **Apache Airflow**, **Apache Hadoop**, **Apache Spark**, **SparkSQL**, **SparkML**
 - **Tableau**, **Power BI**, **Jupyter Notebooks**
 - **Git**, **GitHub**
+- **NumPy**, **Pandas**
+- **Plotly**
+- **Flask**
+- **Heroku**, **Gunicorn**
+
