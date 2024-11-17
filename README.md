@@ -16,4 +16,5 @@ I am a final-year Business Technology undergraduate student with a strong intere
 - **Plotly**
 - **Flask**
 - **Heroku**, **Gunicorn**
+- **Docker**
 
