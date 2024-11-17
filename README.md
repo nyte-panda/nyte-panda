@@ -1,4 +1,4 @@
-# Hi, I'm Thuthimal
+# Hi, I'm Thuthimal!
 
 ## About Me
 
