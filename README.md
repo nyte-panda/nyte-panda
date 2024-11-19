@@ -7,6 +7,8 @@ I am a final-year Business Technology undergraduate student with a strong intere
 ## Skills
 
 - **JavaScript** (React.js, Express.js, Node.js)
+- **HTML**
+- **CSS**
 - **Python**, **R**
 - **SQL** (PostgreSQL, SQLite)
 - **Apache Kafka**, **Apache Airflow**, **Apache Hadoop**, **Apache Spark**, **SparkSQL**, **SparkML**
